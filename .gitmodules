@@ -1,3 +1,6 @@
 [submodule "/home/yamu/dotfiles/vimfiles/vundle.git"]
 	path = /home/yamu/dotfiles/vimfiles/vundle.git
 	url = git@github.com:gmarik/vundle.git
+[submodule ".vim/vundle.git"]
+	path = .vim/vundle.git
+	url = git://github.com/gmarik/vundle.git
